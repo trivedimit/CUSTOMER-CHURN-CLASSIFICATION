@@ -9,14 +9,14 @@ To address this, I explored multiple **resampling techniques** and compared the 
 The entire workflow—from **data exploration** to **model evaluation**—was performed in Jupyter Notebook, and the results were compiled into a structured PDF report.
 
 ---
-
+```
 ## 📂 Repository Structure
 ├── dataset/ # Raw dataset
 ├── notebook/ # Jupyter Notebook with full workflow
 ├── pdf/ # PDF version of project report
 ├── requirements.txt # Required dependencies
 └── README.md # Project documentation
-
+```
 ---
 
 ## 🔑 Project Steps
